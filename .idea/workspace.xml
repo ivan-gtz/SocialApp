@@ -51,28 +51,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d83299b2-6e94-442d-a353-243c9cd521a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/user.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/social.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/social.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CommentLikesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CommentLikesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FriendshipsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FriendshipsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/StatusLikesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/StatusLikesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/AcceptFriendshipBtn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/AcceptFriendshipBtn.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/FriendshipBtn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/FriendshipBtn.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/LikeBtn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/LikeBtn.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/friends/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/friends/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/friendships/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/friendships/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Browser/UsersCanLikeStatusesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Browser/UsersCanLikeStatusesTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/CanLikeCommentsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/CanLikeCommentsTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/CanLikeStatusesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/CanLikeStatusesTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,7 +282,7 @@
       <workItem from="1584535137665" duration="14171000" />
       <workItem from="1584571246992" duration="84252000" />
       <workItem from="1605027999397" duration="10814000" />
-      <workItem from="1605050383115" duration="1296000" />
+      <workItem from="1605050383115" duration="2084000" />
     </task>
     <servers />
   </component>
