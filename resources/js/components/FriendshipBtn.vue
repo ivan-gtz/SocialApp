@@ -12,17 +12,16 @@
             recipient:{
                 type:Object,
                 required: true
-            },
-            friendshipStatus: {
-                type: String,
-                required: true
             }
         },
-        data()
-        {
-            return {
-                localFriendshipStatus: this.friendshipStatus
-            }
+        data:()=> ({
+            localFriendshipStatus: ''
+        }),
+        created() {
+            axios.get(`/friendships/${this.recipient.name}`)
+            .then(res =>{
+                this.localFriendshipStatus = res.data.friendship_status
+            })
         },
         methods:{
             toggleFriendshipStatus(){

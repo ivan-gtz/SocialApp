@@ -2187,25 +2187,28 @@ __webpack_require__.r(__webpack_exports__);
     recipient: {
       type: Object,
       required: true
-    },
-    friendshipStatus: {
-      type: String,
-      required: true
     }
   },
   data: function data() {
     return {
-      localFriendshipStatus: this.friendshipStatus
+      localFriendshipStatus: ''
     };
+  },
+  created: function created() {
+    var _this = this;
+
+    axios.get("/friendships/".concat(this.recipient.name)).then(function (res) {
+      _this.localFriendshipStatus = res.data.friendship_status;
+    });
   },
   methods: {
     toggleFriendshipStatus: function toggleFriendshipStatus() {
-      var _this = this;
+      var _this2 = this;
 
       this.redirectIfGuest();
       var method = this.getMethod();
       axios[method]("friendships/".concat(this.recipient.name)).then(function (res) {
-        _this.localFriendshipStatus = res.data.friendship_status;
+        _this2.localFriendshipStatus = res.data.friendship_status;
       })["catch"](function (err) {
         console.log(err.response.data);
       });
@@ -2275,12 +2278,7 @@ __webpack_require__.r(__webpack_exports__);
       var method = this.model.is_liked ? 'delete' : 'post';
       axios[method](this.url).then(function (res) {
         _this.model.is_liked = !_this.model.is_liked;
-
-        if (method === 'post') {
-          _this.model.likes_count++;
-        } else {
-          _this.model.likes_count--;
-        }
+        _this.model.likes_count = res.data.likes_count;
       });
     }
   },
@@ -48771,6 +48769,7 @@ var render = function() {
               "button",
               {
                 staticClass: "btn btn-sm btn-primary",
+                attrs: { dusk: "accept-friendship" },
                 on: { click: _vm.acceptFriendshipRequest }
               },
               [_vm._v("Aceptar solicitud")]
@@ -62583,7 +62582,7 @@ module.exports = {
   },
   methods: {
     redirectIfGuest: function redirectIfGuest() {
-      if (this.guest) return window.location.href = '/login';
+      if (this.guest) return window.location.href = "/login";
     }
   }
 };

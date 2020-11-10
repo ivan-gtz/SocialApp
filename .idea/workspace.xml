@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:composer" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:composer" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:symfony" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83299b2-6e94-442d-a353-243c9cd521a5" name="Default Changelist" comment="" />
+    <list default="true" id="d83299b2-6e94-442d-a353-243c9cd521a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/social.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/social.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CommentLikesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CommentLikesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FriendshipsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FriendshipsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/StatusLikesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/StatusLikesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/AcceptFriendshipBtn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/AcceptFriendshipBtn.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/FriendshipBtn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/FriendshipBtn.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/LikeBtn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/LikeBtn.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/friends/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/friends/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/friendships/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/friendships/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Browser/UsersCanLikeStatusesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Browser/UsersCanLikeStatusesTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/CanLikeCommentsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/CanLikeCommentsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/CanLikeStatusesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/CanLikeStatusesTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,9 +81,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -33,6 +103,9 @@
         <option value="Vue Single File Component" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
     <include_path>
@@ -123,19 +196,28 @@
       <path value="$PROJECT_DIR$/vendor/staudenmeir/dusk-updater" />
       <path value="$PROJECT_DIR$/vendor/pusher/pusher-php-server" />
       <path value="$PROJECT_DIR$/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1YGR52Q0LDgj3Ip7CXUftdDcVpg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/Unit/Http/Resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -143,7 +225,11 @@
       <recent name="C:\laragon\www\social" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.CanSeeFriendsTest.guests_cannot_access_the_list_of_friends">
+  <component name="RunManager" selected="PHPUnit.CanLikeStatusesTest.an_authenticated_user_can_like_and_unlike_statuses">
+    <configuration name="CanLikeStatusesTest.an_authenticated_user_can_like_and_unlike_statuses" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\CanLikeStatusesTest" file="$PROJECT_DIR$/tests/Feature/CanLikeStatusesTest.php" method="an_authenticated_user_can_like_and_unlike_statuses" scope="Method" />
+      <method v="2" />
+    </configuration>
     <configuration name="CanRequestFriendshipTest.can_get_all_friendship_requests_received" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tests\Feature\CanRequestFriendshipTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/CanRequestFriendshipTest.php" method="can_get_all_friendship_requests_received" scope="Method" />
       <method v="2" />
@@ -156,10 +242,6 @@
       <TestRunner class="Tests\Feature\CanSeeFriendsTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/CanSeeFriendsTest.php" method="guests_cannot_access_the_list_of_friends" scope="Method" />
       <method v="2" />
     </configuration>
-    <configuration name="UserTest.a_user_can_get_all_their_friend_requests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tests\Unit\UserTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Unit/UserTest.php" method="a_user_can_get_all_their_friend_requests" scope="Method" />
-      <method v="2" />
-    </configuration>
     <configuration name="UserTest.a_user_can_get_their_friends" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tests\Unit\UserTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Unit/UserTest.php" method="a_user_can_get_their_friends" scope="Method" />
       <method v="2" />
@@ -170,14 +252,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.CanLikeStatusesTest.an_authenticated_user_can_like_and_unlike_statuses" />
         <item itemvalue="PHPUnit.CanSeeFriendsTest.guests_cannot_access_the_list_of_friends" />
         <item itemvalue="PHPUnit.CanSeeFriendsTest.a_user_can_see_a_list_of_friends" />
         <item itemvalue="PHPUnit.UserTest.a_user_can_get_their_friends" />
         <item itemvalue="PHPUnit.CanRequestFriendshipTest.can_get_all_friendship_requests_received" />
-        <item itemvalue="PHPUnit.UserTest.a_user_can_get_all_their_friend_requests" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -218,128 +301,34 @@
       <workItem from="1584460999502" duration="14730000" />
       <workItem from="1584535137665" duration="14171000" />
       <workItem from="1584571246992" duration="84252000" />
+      <workItem from="1605027999397" duration="10814000" />
+      <workItem from="1605050383115" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="432" y="70" key="#CLI_Interpreters" timestamp="1582675171492">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="491" y="384" key="NewPhpFileDialog" timestamp="1605044631435">
+      <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="432" y="70" key="#CLI_Interpreters/0.0.1600.860@0.0.1600.860" timestamp="1582675171492" />
-    <state x="461" y="37" key="#CanRequestFriendshipTest.can_accepted_friendship_request" timestamp="1584315335870">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="491" y="384" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1605044631435" />
+    <state x="463" y="204" width="672" height="678" key="search.everywhere.popup" timestamp="1605049192641">
+      <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="461" y="37" key="#CanRequestFriendshipTest.can_accepted_friendship_request/0.0.1600.860@0.0.1600.860" timestamp="1584315335870" />
-    <state x="461" y="37" key="#CreateStatusTest.an_authenticated_user_can_create_status" timestamp="1582573481288">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="461" y="37" key="#CreateStatusTest.an_authenticated_user_can_create_status/0.0.1600.860@0.0.1600.860" timestamp="1582573481288" />
-    <state x="461" y="30" width="691" height="799" key="#CreateStatusTest.an_authenticated_user_can_create_statuses" timestamp="1582574487958">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="461" y="30" width="691" height="799" key="#CreateStatusTest.an_authenticated_user_can_create_statuses/0.0.1600.860@0.0.1600.860" timestamp="1582574487958" />
-    <state x="461" y="37" key="#RegistrationTest.the_name_may_not_be_greater_than_255_characters" timestamp="1584224344799">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="461" y="37" key="#RegistrationTest.the_name_may_not_be_greater_than_255_characters/0.0.1600.860@0.0.1600.860" timestamp="1584224344799" />
-    <state x="461" y="37" key="#RegistrationTest.the_password_may_not_be_greater_than_8_characters" timestamp="1584226790170">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="461" y="37" key="#RegistrationTest.the_password_may_not_be_greater_than_8_characters/0.0.1600.860@0.0.1600.860" timestamp="1584226790170" />
-    <state x="387" y="83" key="#Test_Frameworks" timestamp="1582574479689">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="387" y="83" key="#Test_Frameworks/0.0.1600.860@0.0.1600.860" timestamp="1582574479689" />
-    <state x="554" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584763872064">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="554" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1584763872064" />
-    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583070321924">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1583070321924" />
-    <state x="530" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1584888929492">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="530" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1584888929492" />
-    <state x="541" y="36" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1584223619260">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="541" y="36" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/0.0.1600.860@0.0.1600.860" timestamp="1584223619260" />
-    <state x="632" y="170" key="FileChooserDialogImpl" timestamp="1582675159832">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="632" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582675159832" />
-    <state width="1600" height="268" key="GridCell.Tab.0.bottom" timestamp="1584918023793">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584918023793" />
-    <state width="1600" height="268" key="GridCell.Tab.0.center" timestamp="1584918023793">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584918023793" />
-    <state width="1600" height="268" key="GridCell.Tab.0.left" timestamp="1584918023792">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584918023792" />
-    <state width="1600" height="268" key="GridCell.Tab.0.right" timestamp="1584918023793">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584918023793" />
-    <state width="1600" height="268" key="GridCell.Tab.1.bottom" timestamp="1584918023793">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584918023793" />
-    <state width="1600" height="268" key="GridCell.Tab.1.center" timestamp="1584918023793">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1584918023793" />
-    <state width="1600" height="268" key="GridCell.Tab.1.left" timestamp="1584918023793">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1584918023793" />
-    <state width="1600" height="268" key="GridCell.Tab.1.right" timestamp="1584918023793">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1600" height="268" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1584918023793" />
-    <state x="353" y="47" key="SettingsEditor" timestamp="1583881879896">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="353" y="47" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583881879896" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1584291492089">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1584291492089" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1584571245973">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584571245973" />
-    <state x="418" y="40" width="849" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584292960299">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="418" y="40" width="849" height="790" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1584292960299" />
-    <state x="92" y="92" width="1416" height="676" key="dock-window-1" timestamp="1583719958425">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="92" y="92" width="1416" height="676" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1583719958425" />
-    <state x="0" y="0" width="757" height="860" key="find.popup" timestamp="1584199761162">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="0" y="0" width="757" height="860" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1584199761162" />
-    <state width="600" height="440" key="javadoc.popup" timestamp="1583028754509">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="600" height="440" key="javadoc.popup/0.0.1600.860@0.0.1600.860" timestamp="1583028754509" />
-    <state x="456" y="190" width="672" height="677" key="run.anything.popup" timestamp="1584892879056">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="456" y="190" width="672" height="677" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1584892879056" />
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584917189356">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="464" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584917189356" />
+    <state x="463" y="204" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1605049192641" />
   </component>
 </project>

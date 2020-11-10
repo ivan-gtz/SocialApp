@@ -15,7 +15,7 @@
             </div>
         </div>
             <div >
-                <button class="btn btn-sm btn-primary" v-if="localFriendshipStatus === 'pending'" @click="acceptFriendshipRequest">Aceptar solicitud</button>
+                <button class="btn btn-sm btn-primary" v-if="localFriendshipStatus === 'pending'" dusk="accept-friendship" @click="acceptFriendshipRequest">Aceptar solicitud</button>
                 <button class="btn btn-sm btn-warning" v-if="localFriendshipStatus === 'pending'" dusk="deny-friendship" @click="denyFriendshipRequest">Denegar solicitud</button>
                 <button class="btn btn-sm btn-danger" v-if="localFriendshipStatus !== 'deleted'" dusk="delete-friendship" @click="deleteFriendship">Eliminar</button>
 

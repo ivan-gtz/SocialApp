@@ -28,6 +28,7 @@ Route::get('users/{user}/statuses', 'UsersStatusController@index')->name('users.
 Route::get('friends', 'FriendsController@index')->name('friends.index')->middleware('auth');
 
 //Friendship routes
+Route::get('friendships/{recipient}', 'FriendshipsController@show')->name('friendships.show')->middleware('auth');
 Route::post('friendships/{recipient}', 'FriendshipsController@store')->name('friendships.store')->middleware('auth');
 Route::delete('friendships/{user}', 'FriendshipsController@destroy')->name('friendships.destroy')->middleware('auth');
 
